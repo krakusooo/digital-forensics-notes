@@ -16,3 +16,4 @@ triage script
 rootkit memory
 exam notes
 ctf memory 1
+ctf network
