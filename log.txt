@@ -19,3 +19,4 @@ ctf memory 1
 ctf network
 registry forensics
 android forensics
+malware injection
