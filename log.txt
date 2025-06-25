@@ -22,3 +22,4 @@ android forensics
 malware injection
 event logs
 prefetch
+lnk files
