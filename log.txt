@@ -23,3 +23,4 @@ malware injection
 event logs
 prefetch
 lnk files
+zeek notes
