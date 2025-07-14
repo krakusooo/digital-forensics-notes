@@ -6,3 +6,4 @@ commands ref
 process injection
 timeline
 smb analysis
+ctf writeup
