@@ -24,3 +24,4 @@ event logs
 prefetch
 lnk files
 zeek notes
+rootkit detect
