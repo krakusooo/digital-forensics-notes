@@ -25,3 +25,4 @@ prefetch
 lnk files
 zeek notes
 rootkit detect
+mft analysis
