@@ -7,3 +7,4 @@ process injection
 timeline
 smb analysis
 ctf writeup
+ntfs artifacts
