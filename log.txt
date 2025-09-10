@@ -8,3 +8,4 @@ timeline
 smb analysis
 ctf writeup
 ntfs artifacts
+malware workflow
