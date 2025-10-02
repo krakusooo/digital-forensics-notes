@@ -28,3 +28,4 @@ rootkit detect
 mft analysis
 chrome forensics
 email headers
+anti-forensics
