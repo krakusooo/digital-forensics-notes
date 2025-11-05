@@ -30,3 +30,4 @@ chrome forensics
 email headers
 anti-forensics
 ctf disk
+shellbags
