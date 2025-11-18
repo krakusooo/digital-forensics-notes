@@ -10,3 +10,4 @@ ctf writeup
 ntfs artifacts
 malware workflow
 linux volatility
+chain of custody
