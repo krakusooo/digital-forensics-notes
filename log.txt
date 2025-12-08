@@ -32,3 +32,4 @@ anti-forensics
 ctf disk
 shellbags
 autopsy guide
+aws cloudtrail
