@@ -11,3 +11,4 @@ ntfs artifacts
 malware workflow
 linux volatility
 chain of custody
+network ctf
