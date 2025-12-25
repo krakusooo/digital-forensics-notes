@@ -33,3 +33,4 @@ ctf disk
 shellbags
 autopsy guide
 aws cloudtrail
+proc analysis
