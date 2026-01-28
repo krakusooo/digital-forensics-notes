@@ -35,3 +35,4 @@ autopsy guide
 aws cloudtrail
 proc analysis
 stego detect
+mimikatz notes
