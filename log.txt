@@ -13,3 +13,4 @@ linux volatility
 chain of custody
 network ctf
 triage script
+rootkit memory
